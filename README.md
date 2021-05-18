@@ -1,4 +1,4 @@
-# todo
+# Vue / Typescript To-Do Project
 
 ## Project setup
 ```
